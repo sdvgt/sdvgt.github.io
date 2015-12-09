@@ -51,22 +51,22 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: #fff;
+		background: #006600;
 		font: 14px/21px;
 		font-family: 'Open Sans', sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
  }
- 
+
  header {
 	 background: #334d66;
  }
- 
+
  footer {
 	 background: #212526;
  }
- 
+
 
 
 
@@ -134,7 +134,7 @@
 	img.scale-with-grid {
 		max-width: 100%;
 		height: auto; }
-    
+
     img.center {
 	    display: block;
 	    margin-left: auto;
@@ -142,16 +142,16 @@
 	    margin-top: 40px;
 	    margin-bottom: 20px;
     }
-    
+
     img.circle {
 	    border: 4px solid #fff;
 	    width: 150px;
 	    height: 150px;
 	    border-radius: 150px;
 	    -webkit-border-radius: 150px;
-	    -moz-border-radius: 150px; 
+	    -moz-border-radius: 150px;
     }
-    
+
     #hov:hover {
 	    opacity: 0.5;
 	    -moz-transition: all 1s linear;
@@ -160,7 +160,7 @@
 	    -webkit-transition: all 1s linear;
 	    transition: all 1s linear;
     }
-    
+
      .hov:hover {
 	    opacity: 0.5;
 	    -moz-transition: all 1s linear;
@@ -171,7 +171,7 @@
     }
 
 
-    
+
     #rotate {
 	    -webkit-transition: all 0.8s ease;
         -moz-transition: all 0.8s ease;
@@ -179,7 +179,7 @@
         -ms-transition: all 0.8s ease;
         transition: all 0.8s ease;
     }
-    
+
     #rotate:hover {
         -webkit-transform: rotate(360deg);
         -moz-transform: rotate(360deg);
@@ -187,21 +187,21 @@
         -ms-transform: rotate(360deg);
         transform: rotate(360deg);
     }
-    
+
     #zoom {
 	    border: 4px solid #334d66;
 	    width: 150px;
 	    height: 150px;
 	    border-radius: 150px;
 	    -webkit-border-radius: 150px;
-	    -moz-border-radius: 150px; 
+	    -moz-border-radius: 150px;
         -webkit-transition: all 1s ease;
         -moz-transition: all 1s ease;
         -o-transition: all 1s ease;
         -ms-transition: all 1s ease;
         transition: all 1s ease;
     }
-    
+
     #zoom:hover {
         width: 180px;
         height: 180px;
@@ -272,5 +272,3 @@
 	.remove-bottom { margin-bottom: 0 !important; }
 	.half-bottom { margin-bottom: 10px !important; }
 	.add-bottom { margin-bottom: 20px !important; }
-
-
