@@ -330,7 +330,7 @@ p {
 /* change Slider Styles at flexslider.css */
 
 .slider {
-	background-color: #334d66;
+	background-color: #006600; /*#334d66; azul original*/
 	padding-bottom: 10px;
 }
 
@@ -628,7 +628,7 @@ th {
 /* #Contact */
 
 #contactform {
-	background-color: #334d66;
+	background-color: #006600; /*#334d66; azul original*/
 	padding-top: 60px;
 	padding-bottom: 80px;
 }
