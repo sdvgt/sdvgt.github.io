@@ -350,7 +350,7 @@ p {
 /* #Service */
 
 .service {
-	background-color: #f37736; /*color original  #e09224; */
+	background-color: #0392cf; /*color original  #e09224; */
 	padding-top: 60px;
 	padding-bottom: 80px;
 }
@@ -358,7 +358,7 @@ p {
 /* #Team */
 
 .team {
-	background-color: #fff;
+	background-color: #fdf498; /*color original #fff; */
 	padding-top: 60px;
 	padding-bottom: 80px;
 }
@@ -482,7 +482,7 @@ p {
 /* #Portfolio */
 
 #portfolio {
-	background-color: #fdf498; /* color original  #decdb6; */
+	background-color: #f37736; /* color original  #decdb6; */
 	padding-top: 60px;
 	padding-bottom: 80px;
 }
@@ -555,7 +555,7 @@ p {
 /* #Pricing */
 
 #price {
-	background-color: #0392cf; /* color original corinto-ish #bf5a24;*/
+	background-color: #ee4035; /* color original corinto-ish #bf5a24;*/
 	padding-top: 60px;
 	padding-bottom: 80px;
 }
