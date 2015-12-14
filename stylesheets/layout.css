@@ -129,7 +129,7 @@ p {
   font-weight: 700 !important;
   font-size: 14px;
   border: none;
-  background: #4d6287;
+  background: #4d6287; /* font color when button is pressed or hovered original value: #4d6287 */
   line-height: 6px;
   margin-top: 20px;
   margin-bottom: 20px;
@@ -154,7 +154,7 @@ p {
   margin-left: auto;
   margin-right: auto;
   padding: 5px 6px;
-  background: #bf5a24;
+  background: #bf5a24; /* button color when is pressed or hovered original value: #bf5a24 */
   border-bottom-left-radius: 4px 4px;
   border-bottom-right-radius: 4px 4px;
   border-top-left-radius: 4px 4px;
@@ -628,7 +628,7 @@ th {
 /* #Contact */
 
 #contactform {
-	background-color: #009900; /*#334d66; azul original*/
+	background-color: #006600; /*#334d66; azul original*/
 	padding-top: 60px;
 	padding-bottom: 80px;
 }
