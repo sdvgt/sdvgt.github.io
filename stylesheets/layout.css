@@ -330,7 +330,7 @@ p {
 /* change Slider Styles at flexslider.css */
 
 .slider {
-	background-color: #006600; /*#334d66; azul original*/
+	background-color: #7bc043; /*#334d66; azul original*/
 	padding-bottom: 10px;
 }
 
@@ -350,7 +350,7 @@ p {
 /* #Service */
 
 .service {
-	background-color: #e09224;
+	background-color: #f37736; /*color original  #e09224; */
 	padding-top: 60px;
 	padding-bottom: 80px;
 }
@@ -482,7 +482,7 @@ p {
 /* #Portfolio */
 
 #portfolio {
-	background-color: #decdb6;
+	background-color: #fdf498; /* color original  #decdb6; */
 	padding-top: 60px;
 	padding-bottom: 80px;
 }
@@ -555,7 +555,7 @@ p {
 /* #Pricing */
 
 #price {
-	background-color: #bf5a24;
+	background-color: #0392cf; /* color original corinto-ish #bf5a24;*/
 	padding-top: 60px;
 	padding-bottom: 80px;
 }
@@ -628,7 +628,7 @@ th {
 /* #Contact */
 
 #contactform {
-	background-color: #006600; /*#334d66; azul original*/
+	background-color: #7bc043; /*#334d66; azul original*/
 	padding-top: 60px;
 	padding-bottom: 80px;
 }
