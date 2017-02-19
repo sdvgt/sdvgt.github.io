@@ -350,7 +350,7 @@ p {
 /* #Service */
 
 .service {
-	background-color: #0392cf; /*color original  #e09224; */
+	background-color: #0392cf; /*color original  #e09224; segundo color #0392cf*/
 	padding-top: 60px;
 	padding-bottom: 80px;
 }
@@ -358,7 +358,7 @@ p {
 /* #Team */
 
 .team {
-	background-color: #fdf498; /*color original #fff; */
+	background-color: #fdf498; /*color original #fff; segundo color fdf498 */
 	padding-top: 60px;
 	padding-bottom: 80px;
 }
